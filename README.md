@@ -1,7 +1,7 @@
 # Sephora Customer Review Sentiment Analysis
 Aspect-level sentiment analysis of 1M+ skincare reviews across 2,000+ products and 142 brands using VADER, with interactive Tableau dashboards for business insights.
 
-![Sephora Dashboard](assets/interactive_db.gif)
+![Sephora Dashboard](assets/interactive_db.gif)  
 [Link](https://public.tableau.com/app/profile/linh.n2773/viz/NLP-SephoraProject/OverviewDashboard)
 
 ### Overview
@@ -21,7 +21,7 @@ High-level KPIs, sentiment trends over time, rating distribution by brand, and t
 
 2. Brands × Aspects x Products
 Brand-level and product-level sentiment breakdown by sub-aspects, performance vs. category average comparison, and aspect performance scatter (mention frequency vs. sentiment score).
-![Sephora Dashboard](assets/second dashboard.gif)
+![Sephora Dashboard](assets/second dashboard.gif)  
 [Link](https://public.tableau.com/app/profile/linh.n2773/viz/NLP-SephoraProject-2_17772571304140/DetailedDashboard)
 
 ### Methodology
