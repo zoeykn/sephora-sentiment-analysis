@@ -34,3 +34,12 @@ Scale: 1,092,967 reviews · 2,000+ products · 142 brands · 2008–2023
 - Aspect extraction — Identified 20+ sub-aspects across two main categories: skincare-specific (hydration, absorption, texture, etc.) and universal (packaging, price, service, etc.)
 - VADER sentiment scoring — Applied VADER at the aspect level to score each mention as positive, negative, or neutral
 - Aggregation & export — Computed average scores by brand, product, and aspect; exported to CSV for Tableau
+
+### My Contribution
+This was a team project (3 members). My responsibilities:
+- Aspect-based sentiment analysis pipeline using VADER
+- Data processing and aggregation for Tableau
+- Dashboard design and business insight extraction
+
+Zoey (Linh) Nguyen — MS Business Analytics Candidate
+Built as a final project for NLP coursework in team of 3, Spring 2026.
